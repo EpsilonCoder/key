@@ -2,12 +2,12 @@
   "name": "Keycloak",
   "description": "Keycloak",
   "logo": "https://www.keycloak.org/resources/images/keycloak_logo_480x108.png",
-  "repository": "https://github.com/MTES-MCT/keycloak-buildpack",
+  "repository": "https://github.com/EpsilonCoder/key",
   "website": "https://keycloak.org",
   "env": {
     "BUILDPACK_URL": {
       "description": "Buildpack used to deploy Keycloak",
-      "value": "https://github.com/MTES-MCT/keycloak-buildpack#master",
+      "value": "https://github.com/EpsilonCoder/key#master",
       "required": true
     },
     "STACK": {
